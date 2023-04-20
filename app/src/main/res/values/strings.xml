@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentAndNavigation</string>
+    <string name="tv_fragment_start">Fragment Start</string>
+    <string name="tv_fragment_end">Fragment End</string>
+    <string name="tv_next">Next</string>
+    <string name="tv_back">Back</string>
+</resources>
